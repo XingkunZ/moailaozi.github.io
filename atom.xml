@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>MALZ</title>
   
+  <subtitle>是谁住在深海的大菠萝里！</subtitle>
+  <link href="http://moailaozi.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://moailaozi.github.io/"/>
   <updated>2021-01-24T06:22:08.642Z</updated>
-  <id>http://example.com/</id>
+  <id>http://moailaozi.github.io/</id>
   
   <author>
-    <name>»ʸ¦j½¨¹�����, Ä´󀀀ɽ·ò�����</name>
+    <name>鸟大山夫斯基，皇甫建国</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>鸟大山夫斯基我们来抓水母吧！</title>
-    <link href="http://example.com/2021/01/24/%E9%B8%9F%E5%A4%A7%E5%B1%B1%E5%A4%AB%E6%96%AF%E5%9F%BA%E6%88%91%E4%BB%AC%E6%9D%A5%E6%8A%93%E6%B0%B4%E6%AF%8D%E5%90%A7!/"/>
-    <id>http://example.com/2021/01/24/%E9%B8%9F%E5%A4%A7%E5%B1%B1%E5%A4%AB%E6%96%AF%E5%9F%BA%E6%88%91%E4%BB%AC%E6%9D%A5%E6%8A%93%E6%B0%B4%E6%AF%8D%E5%90%A7!/</id>
+    <link href="http://moailaozi.github.io/2021/01/24/%E9%B8%9F%E5%A4%A7%E5%B1%B1%E5%A4%AB%E6%96%AF%E5%9F%BA%E6%88%91%E4%BB%AC%E6%9D%A5%E6%8A%93%E6%B0%B4%E6%AF%8D%E5%90%A7!/"/>
+    <id>http://moailaozi.github.io/2021/01/24/%E9%B8%9F%E5%A4%A7%E5%B1%B1%E5%A4%AB%E6%96%AF%E5%9F%BA%E6%88%91%E4%BB%AC%E6%9D%A5%E6%8A%93%E6%B0%B4%E6%AF%8D%E5%90%A7!/</id>
     <published>2021-01-24T04:32:27.000Z</published>
     <updated>2021-01-24T06:22:08.642Z</updated>
     
