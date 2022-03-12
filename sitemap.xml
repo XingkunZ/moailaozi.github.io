@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://moailaozi.com/2022/01/12/%C2%B7-%C2%B7dreams%C2%B7-%C2%B7/</loc>
+    <loc>http://moailaozi.com/2022/01/12/%E7%83%82%E6%A2%A6%E7%A2%8E%E4%B8%80%E5%9C%B0/</loc>
     
-    <lastmod>2022-01-16</lastmod>
+    <lastmod>2022-03-12</lastmod>
     
   </url>
   
@@ -18,22 +18,22 @@
 
   <url>
     <loc>http://moailaozi.com/</loc>
-    <lastmod>2022-01-16</lastmod>
+    <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://moailaozi.com/tags/dream/</loc>
-    <lastmod>2022-01-16</lastmod>
+    <loc>http://moailaozi.com/tags/xingkun/</loc>
+    <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://moailaozi.com/tags/xingkun/</loc>
-    <lastmod>2022-01-16</lastmod>
+    <loc>http://moailaozi.com/tags/dream/</loc>
+    <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42,7 +42,7 @@
   
   <url>
     <loc>http://moailaozi.com/categories/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2022-01-16</lastmod>
+    <lastmod>2022-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
